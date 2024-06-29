@@ -1,6 +1,4 @@
-<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Playwrite+NG+Modern:wght@100..400&display=swap">
-
-<h1 align="center"  font-family: "'Playwrite NG Modern', sans-serif" >Hi 👋, I'm Rashmi Rajapaksha</h1>
+<h1 align="center"    >Hi 👋, I'm Rashmi Rajapaksha</h1>
 <h3 align="center">I am an undergraduate student 🎓 who began coding with front-end development and has since expanded into backend development 💻. As a freelancer since 2022 🕒, I am also passionate about mobile app development 📱, game development 🎮, and AR technology 🌐. I am based in sunny Sri Lanka 🇱🇰.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rash933&label=Profile%20views&color=0e75b6&style=flat" alt="rash933" /> </p>
