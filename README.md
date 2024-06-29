@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rashmi.s.v.rajapaksha@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
