@@ -37,81 +37,82 @@
 
 <p align="center">
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://dart.dev/assets/dart-logo-for-shields.svg" width="36" height="36" alt="Dart" />
+    <img src="https://img.icons8.com/color/36/000000/dart.png" width="36" height="36" alt="Dart" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="36" height="36" alt="Git" />
+    <img src="https://img.icons8.com/color/36/000000/git.png" width="36" height="36" alt="Git" />
   </a>
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://www.oracle.com/a/ocom/img/cb1307-java-hero.png" width="36" height="36" alt="Java" />
+    <img src="https://img.icons8.com/color/36/000000/java-coffee-cup-logo.png" width="36" height="36" alt="Java" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://developer.mozilla.org/static/img/favicon144.png" width="36" height="36" alt="JavaScript" />
+    <img src="https://img.icons8.com/color/36/000000/javascript.png" width="36" height="36" alt="JavaScript" />
   </a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://kotlinlang.org/docs/img/kotlin_logo.png" width="36" height="36" alt="Kotlin" />
+    <img src="https://img.icons8.com/color/36/000000/kotlin.png" width="36" height="36" alt="Kotlin" />
   </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://www.php.net/images/logos/php-logo.svg" width="36" height="36" alt="PHP" />
+    <img src="https://img.icons8.com/color/36/000000/php.png" width="36" height="36" alt="PHP" />
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.python.org/community/logos/python-logo-master-v3-TM.png" width="36" height="36" alt="Python" />
+    <img src="https://img.icons8.com/color/36/000000/python.png" width="36" height="36" alt="Python" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.typescriptlang.org/logo/TypeScript_logo_128.png" width="36" height="36" alt="TypeScript" />
+    <img src="https://img.icons8.com/color/36/000000/typescript.png" width="36" height="36" alt="TypeScript" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://code.visualstudio.com/assets/favicon.ico" width="36" height="36" alt="VS Code" />
+    <img src="https://img.icons8.com/color/36/000000/visual-studio-code-2019.png" width="36" height="36" alt="VS Code" />
   </a>
   <a href="https://www.xcode.com" target="_blank" rel="noreferrer">
-    <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-64x64.png" width="36" height="36" alt="XCode" />
+    <img src="https://img.icons8.com/color/36/000000/xcode.png" width="36" height="36" alt="XCode" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://developer.mozilla.org/static/img/favicon32.png" width="36" height="36" alt="HTML5" />
+    <img src="https://img.icons8.com/color/36/000000/html-5.png" width="36" height="36" alt="HTML5" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://reactjs.org/logo-og.png" width="36" height="36" alt="React" />
+    <img src="https://img.icons8.com/color/36/000000/react-native.png" width="36" height="36" alt="React" />
   </a>
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://nextjs.org/static/favicon/favicon-32x32.png" width="36" height="36" alt="Next.js" />
+    <img src="https://img.icons8.com/color/36/000000/nextjs.png" width="36" height="36" alt="Next.js" />
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://vuejs.org/images/logo.png" width="36" height="36" alt="Vue" />
+    <img src="https://img.icons8.com/color/36/000000/vue-js.png" width="36" height="36" alt="Vue" />
   </a>
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://nuxtjs.org/images/logo.svg" width="36" height="36" alt="Nuxtjs" />
+    <img src="https://img.icons8.com/color/36/000000/nuxt.png" width="36" height="36" alt="Nuxtjs" />
   </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="36" height="36" alt="Angular" />
+    <img src="https://img.icons8.com/color/36/000000/angularjs.png" width="36" height="36" alt="Angular" />
   </a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://jquery.com/jquery-wp-content/themes/jquery/images/jquery-logo.svg" width="36" height="36" alt="JQuery" />
+    <img src="https://img.icons8.com/color/36/000000/jquery.png" width="36" height="36" alt="JQuery" />
   </a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://www.w3.org/Style/Images/CSS3.svg" width="36" height="36" alt="CSS3" />
+    <img src="https://img.icons8.com/color/36/000000/css3.png" width="36" height="36" alt="CSS3" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://tailwindcss.com/_next/static/media/logo-light.8b7929d2.svg" width="36" height="36" alt="TailwindCSS" />
+    <img src="https://img.icons8.com/color/36/000000/tailwindcss.png" width="36" height="36" alt="TailwindCSS" />
   </a>
   <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
-    <img src="https://chakra-ui.com/logo/logo-dark.svg" width="36" height="36" alt="Chakra UI" />
+    <img src="https://img.icons8.com/color/36/000000/chakra-ui.png" width="36" height="36" alt="Chakra UI" />
   </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://sass-lang.com/assets/img/logos/sass-logomark.png" width="36" height="36" alt="Sass" />
+    <img src="https://img.icons8.com/color/36/000000/sass.png" width="36" height="36" alt="Sass" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="36" height="36" alt="NodeJS" />
+    <img src="https://img.icons8.com/color/36/000000/nodejs.png" width="36" height="36" alt="NodeJS" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="36" height="36" alt="MySQL" />
+    <img src="https://img.icons8.com/color/36/000000/mysql.png" width="36" height="36" alt="MySQL" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.mongodb.com/assets/images/global/favicon.ico" width="36" height="36" alt="MongoDB" />
+    <img src="https://img.icons8.com/color/36/000000/mongodb.png" width="36" height="36" alt="MongoDB" />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" width="36" height="36" alt="Firebase" />
+    <img src="https://img.icons8.com/color/36/000000/firebase.png" width="36" height="36" alt="Firebase" />
   </a>
 </p>
+
 
 <h3 align="left">Contact me</h3>
 
