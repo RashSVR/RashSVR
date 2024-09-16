@@ -111,9 +111,8 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/36/000000/unity.png" width="36" height="36" alt="Unity" />
 </a>
-
-<a href="https://developer.apple.com/arkit/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/ios/36/000000/arkit.png" width="36" height="36" alt="ARKit" />
+  <a href="https://developer.apple.com/arkit/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/36/000000/arkit.png" width="36" height="36" alt="ARKit" />
 </a>
 
 <a href="https://developers.google.com/ar" target="_blank" rel="noreferrer">
