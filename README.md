@@ -126,7 +126,7 @@
 
 <!-- Blender -->
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat/36/external-blender-3d-flaticons-lineal-color-flat.png" width="36" height="36" alt="Blender" />
+  <img src="https://img.icons8.com/?size=36&id=65231&format=png&color=000000" width="36" height="36" alt="Blender" />
 </a>
 
 <!-- Babel -->
