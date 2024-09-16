@@ -114,25 +114,7 @@
 <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/36/000000/android-os.png" width="36" height="36" alt="Android" />
 </a>
-<!-- ARKit -->
-<a href="https://developer.apple.com/arkit/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/arkit-3530377-2955768.png" width="36" height="36" alt="ARKit" />
-</a>
 
-<!-- ARCore -->
-<a href="https://developers.google.com/ar" target="_blank" rel="noreferrer">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/arcore-3530375-2955771.png" width="36" height="36" alt="ARCore" />
-</a>
-
-<!-- Blender -->
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/blender-3551064-2955691.png" width="36" height="36" alt="Blender" />
-</a>
-
-<!-- Babel -->
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/babel-283273.png" width="36" height="36" alt="Babel" />
-</a>
 
 </p>
 
