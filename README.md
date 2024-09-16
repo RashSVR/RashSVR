@@ -81,9 +81,6 @@
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/36/5A545A/nextjs.png" width="36" height="36" alt="Next.js" />
   </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/36/000000/babel.png" width="36" height="36" alt="Babel" />
-  </a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/ios/36/ffffff/jquery.png" width="36" height="36" alt="JQuery" />
   </a>
@@ -114,18 +111,26 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/36/000000/unity.png" width="36" height="36" alt="Unity" />
 </a>
+
 <a href="https://developer.apple.com/arkit/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/36/000000/arkit.png" width="36" height="36" alt="ARKit" />
+  <img src="https://img.icons8.com/ios/36/000000/arkit.png" width="36" height="36" alt="ARKit" />
 </a>
+
 <a href="https://developers.google.com/ar" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/36/000000/arcore.png" width="36" height="36" alt="ARCore" />
+  <img src="https://img.icons8.com/material-outlined/36/000000/ar.png" width="36" height="36" alt="ARCore" />
 </a>
+
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/36/000000/blender.png" width="36" height="36" alt="Blender" />
+  <img src="https://img.icons8.com/material-outlined/36/000000/blender.png" width="36" height="36" alt="Blender" />
+</a>
+
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/material-outlined/36/000000/babel.png" width="36" height="36" alt="Babel" />
 </a>
 <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/36/000000/android-os.png" width="36" height="36" alt="Android" />
 </a>
+  
 </p>
 
 
