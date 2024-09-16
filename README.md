@@ -79,7 +79,7 @@
     <img src="https://img.icons8.com/color/36/000000/angularjs.png" width="36" height="36" alt="Angular" />
   </a>
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios/36/ffffff/nextjs.png" width="36" height="36" alt="Next.js" />
+    <img src="https://img.icons8.com/color/36/5A545A/nextjs.png" width="36" height="36" alt="Next.js" />
   </a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/ios/36/ffffff/jquery.png" width="36" height="36" alt="JQuery" />
