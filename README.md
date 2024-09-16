@@ -1,9 +1,11 @@
-<p align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> My name is Rashmi Rajapaksha</p>
+<h3 align="center"> <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="60"/>  Hi! ,My name is Rashmi Rajapaksha</p>
 
-<p align="center">I am an undergraduate student 🎓 who began coding with front-end development and has since expanded into backend development 💻. As a freelancer since 2022 🕒, I am also passionate about mobile app development 📱, game development 🎮, and AR technology 🌐. </p>
+<p align="center">I am an undergraduate student 🎓 who began coding with front-end development and has since expanded into backend development 💻. As a freelancer since 2022 🕒, I am also passionate about mobile app development 📱, game development 🎮, and AR technology 🌐. </h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rash933&label=Profile%20views&color=0e75b6&style=flat" alt="rash933" />
+  <a href="https://www.github.com/RashSVR" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/RashSVR?label=Profile%20views&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  </a>
   <a href="https://www.github.com/RashSVR" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/RashSVR?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
   </a>
