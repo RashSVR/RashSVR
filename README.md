@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashSVR&theme=dark" alt="Streak Stats" />
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RashSVR&theme=github-dark-blue&hide_border=true&border_radius=3.2&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=511&card_height=198&type=png" alt="GitHub Streak" /></a>
 </p>
 
 <ul>
