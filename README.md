@@ -78,14 +78,14 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/36/000000/vue-js.png" width="36" height="36" alt="Vue" />
   </a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/nuxt.png" width="36" height="36" alt="Nuxtjs" />
-  </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/36/000000/angularjs.png" width="36" height="36" alt="Angular" />
   </a>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/36/000000/nextjs.png" width="36" height="36" alt="Next.js" />
+  </a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/jquery.png" width="36" height="36" alt="JQuery" />
+    <img src="https://img.icons8.com/ios/36/000000/jquery.png" width="36" height="36" alt="JQuery" />
   </a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/36/000000/css3.png" width="36" height="36" alt="CSS3" />
