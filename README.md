@@ -111,26 +111,29 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/36/000000/unity.png" width="36" height="36" alt="Unity" />
 </a>
-<a href="https://developer.apple.com/arkit/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white" width="36" height="36" alt="ARKit" />
-</a>
-
-<a href="https://developers.google.com/ar" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/ARCore-000000?style=for-the-badge&logo=google&logoColor=white" width="36" height="36" alt="ARCore" />
-</a>
-
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=white" width="36" height="36" alt="Blender" />
-</a>
-
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Babel-000000?style=for-the-badge&logo=babel&logoColor=white" width="36" height="36" alt="Babel" />
-</a>
-
 <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/36/000000/android-os.png" width="36" height="36" alt="Android" />
 </a>
-  
+  <!-- ARKit -->
+<a href="https://developer.apple.com/arkit/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat/36/external-arkit-augmented-reality-flaticons-lineal-color-flat.png" width="36" height="36" alt="ARKit" />
+</a>
+
+<!-- ARCore -->
+<a href="https://developers.google.com/ar" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat/36/external-arcore-augmented-reality-flaticons-lineal-color-flat.png" width="36" height="36" alt="ARCore" />
+</a>
+
+<!-- Blender -->
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat/36/external-blender-3d-flaticons-lineal-color-flat.png" width="36" height="36" alt="Blender" />
+</a>
+
+<!-- Babel -->
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat/36/external-babel-flaticons-lineal-color-flat.png" width="36" height="36" alt="Babel" />
+</a>
+
 </p>
 
 
