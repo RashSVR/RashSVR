@@ -30,9 +30,7 @@
 </ul>
 
 <p align="center">
-  <a href="https://github.com/RashSVR" target="_blank" rel="noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashSVR&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-  </a>
+ <a href="https://github.com/RashSVR" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashSVR&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 
 <h3>Skills</h3>
@@ -75,7 +73,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a>
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
+  <img src="https://img.shields.io/badge/Next.js-%23323232?style=for-the-badge&logo=next.js&logoColor=white" width="36" height="36" alt="Next.js" />
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
@@ -115,16 +113,16 @@
   </a>
 </p>
 
-<h3 align="left">🌐 My Connections</h3>
+<h3 align="left">Contact me</h3>
 
 <p align="left">
-  <a href="https://twitter.com/rashmivraj" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/rashmivraj?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Twitter Follow" />
-  </a>
-  <a href="https://linkedin.com/in/rashmivraj" target="_blank" rel="noreferrer">
+ 
+  <a href="https://linkedin.com/in/rashmi-rajapaksha-rashsvr" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Rashmi%20Rajapaksha-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/rashmi_s_rajapaksha/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-rashmi_s_rajapaksha-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+<a href="https://gitlab.com/rashmi-rajapaksha" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/GitLab-Rashmi%20Rajapaksha-%23181717?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+</a>
+
+ 
 </p>
