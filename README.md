@@ -18,13 +18,13 @@
 
 <p align="center">
   <a href="https://github.com/RashSVR" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashSVR&theme=slateorange&hide_border=true" alt="RashSVR's Streak" style="vertical-align: middle; background: transparent; width: 400px; height: 150px;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashSVR&theme=slateorange&hide_border=true" alt="RashSVR's Streak" style="vertical-align: middle; background: transparent; width: 500px; height: 150px;"/>
   </a>
   <a href="https://github.com/RashSVR" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=RashSVR&theme=slateorange&show_icons=true&hide_border=true&count_private=true" alt="RashSVR's Stats" style="vertical-align: middle; background: transparent; width: 400px; height: 150px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=RashSVR&theme=slateorange&show_icons=true&hide_border=true&count_private=true" alt="RashSVR's Stats" style="vertical-align: middle; background: transparent; width: 500px; height: 150px;"/>
   </a>
   <a href="https://github.com/RashSVR" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashSVR&theme=slateorange&show_icons=true&hide_border=true&layout=compact" alt="RashSVR's Top Languages" style="vertical-align: middle; background: transparent; width: 400px; height: 150px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashSVR&theme=slateorange&show_icons=true&hide_border=true&layout=compact" alt="RashSVR's Top Languages" style="vertical-align: middle; background: transparent; width: 200px; height: 150px;"/>
   </a>
 </p>
 
