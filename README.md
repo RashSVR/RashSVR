@@ -109,16 +109,13 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/36/000000/firebase.png" width="36" height="36" alt="Firebase" />
   </a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/36/000000/unity.png" width="36" height="36" alt="Unity" />
-</a>
-<a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/36/000000/android-os.png" width="36" height="36" alt="Android" />
-</a>
-
-
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/36/000000/unity.png" width="36" height="36" alt="Unity" />
+  </a>
+  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/36/000000/android-os.png" width="36" height="36" alt="Android" />
+  </a>
 </p>
-
 
 <h3 align="left">Contact me</h3>
 
