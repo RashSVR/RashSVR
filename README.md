@@ -33,89 +33,89 @@
 <p align="center">
  <a href="https://github.com/RashSVR" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashSVR&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%40%Languages" alt="Top Languages" /></a>
 </p>
-
 <h3>Skills</h3>
 
 <p align="center">
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/dart.png" width="36" height="36" alt="Dart" />
+    <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/git.png" width="36" height="36" alt="Git" />
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/java-coffee-cup-logo.png" width="36" height="36" alt="Java" />
+    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/javascript.png" width="36" height="36" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/kotlin.png" width="36" height="36" alt="Kotlin" />
+    <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/php.png" width="36" height="36" alt="PHP" />
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/python.png" width="36" height="36" alt="Python" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/typescript.png" width="36" height="36" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/visual-studio-code-2019.png" width="36" height="36" alt="VS Code" />
+    <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   </a>
   <a href="https://www.xcode.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/xcode.png" width="36" height="36" alt="XCode" />
+    <img src="https://img.shields.io/badge/-Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" alt="XCode" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/html-5.png" width="36" height="36" alt="HTML5" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/react-native.png" width="36" height="36" alt="React" />
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/vue-js.png" width="36" height="36" alt="Vue" />
+    <img src="https://img.shields.io/badge/-Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" />
   </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/angularjs.png" width="36" height="36" alt="Angular" />
+    <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   </a>
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/5A545A/nextjs.png" width="36" height="36" alt="Next.js" />
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   </a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios/36/ffffff/jquery.png" width="36" height="36" alt="JQuery" />
+    <img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
   </a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/css3.png" width="36" height="36" alt="CSS3" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/tailwindcss.png" width="36" height="36" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
   </a>
   <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/chakra-ui.png" width="36" height="36" alt="Chakra UI" />
+    <img src="https://img.shields.io/badge/-Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI" />
   </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/sass.png" width="36" height="36" alt="Sass" />
+    <img src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/nodejs.png" width="36" height="36" alt="NodeJS" />
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/mysql.png" width="36" height="36" alt="MySQL" />
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/mongodb.png" width="36" height="36" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/firebase.png" width="36" height="36" alt="Firebase" />
+    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/unity.png" width="36" height="36" alt="Unity" />
+    <img src="https://img.shields.io/badge/-Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   </a>
   <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/android-os.png" width="36" height="36" alt="Android" />
+    <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   </a>
 </p>
+
 
 <h3 align="left">Contact me</h3>
 
