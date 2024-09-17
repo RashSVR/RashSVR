@@ -1,6 +1,13 @@
 <h3 align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="60"/> 
-  Hey! I'm Rashmi Rajapaksha, nice to meet you!
+  <pre>
+   ||   / |  / / //   / /  / /        //   ) )  //   ) ) /|    //| |     //   / / 
+||  /  | / / //____    / /        //        //   / / //|   // | |    //____    
+|| / /||/ / / ____    / /        //        //   / / // |  //  | |   / ____     
+||/ / |  / //        / /        //        //   / / //  | //   | |  //          
+|  /  | / //____/ / / /____/ / ((____/ / ((___/ / //   |//    | | //____/ /       
+</pre>
+   I'm Rashmi Rajapaksha, nice to meet you!
 </h3>
 
 <p align="center">
@@ -18,17 +25,19 @@
 
 <p align="center">
   <a href="https://github.com/RashSVR" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashSVR&theme=slateorange&hide_border=true" alt="RashSVR's Streak" style="vertical-align: middle; background: transparent; "/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashSVR&theme=radical&hide_border=true" alt="RashSVR's Streak" style="vertical-align: middle; background: transparent;"/>
   </a>
   <a href="https://github.com/RashSVR" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=RashSVR&theme=slateorange&show_icons=true&hide_border=true&count_private=true" alt="RashSVR's Stats" style="vertical-align: middle; background: transparent; "/>
+    <img src="https://github-readme-stats.vercel.app/api?username=RashSVR&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="RashSVR's Stats" style="vertical-align: middle; background: transparent;"/>
   </a>
 </p>
-<P align="center">
+
+<p align="center">
   <a href="https://github.com/RashSVR" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashSVR&theme=slateorange&show_icons=true&hide_border=true&layout=compact" alt="RashSVR's Top Languages" style="vertical-align: middle; background: transparent; "/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashSVR&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="RashSVR's Top Languages" style="vertical-align: middle; background: transparent;"/>
   </a>
-</P>
+</p>
+
 
 
 
