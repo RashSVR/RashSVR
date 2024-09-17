@@ -17,12 +17,12 @@
 </p>
 
 <p align="center">
-<a href="https://streak-stats.demolab.com/?user=RashSVR" target="_blank"  align="left">
-  <img src="https://streak-stats.demolab.com/?user=RashSVR&border_radius=6&theme=dark" alt="Streak Stats" style="vertical-align: middle;"/>
-</a>
-<a href="https://github.com/RashSVR">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashSVR&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%40%Languages" alt="Top Languages" />
-</a>
+ <a href="https://github.com/RashSVR" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=RashSVR&theme=slateorange&show_icons=true&hide_border=true&count_private=true" alt="RashSVR's Stats" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://streak-stats.demolab.com/?user=RashSVR" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=RashSVR&border_radius=6&theme=dark" alt="Streak Stats" style="vertical-align: middle;"/>
+  </a>
 
 </p>
 
