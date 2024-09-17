@@ -310,7 +310,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Rashmi%20Rajapaksha-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://gitlab.com/rashmi-rajapaksha" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitLab-Rashmi%20Rajapaksha-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
+    <img src="https://img.shields.io/badge/GitLab-Rashmi%20Rajapaksha-%23FC6D26.svg?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
   </a>
 </p>
+
 
