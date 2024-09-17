@@ -56,7 +56,7 @@
 </ul>
 
 
-<h3>Skills</h3>
+<h3 align="center">Skills</h3>
 
 <p align="center">
 <a href="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=flat-square&logo=Duolingo&logoColor=white">
@@ -304,7 +304,7 @@
 </p>
 
 
-<h3 align="left">Contact me</h3>
+<h3 align="center" >Contact me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/rashmi-rajapaksha-rashsvr" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Rashmi%20Rajapaksha-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
