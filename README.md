@@ -17,10 +17,12 @@
 </p>
 
 <p align="center">
+<a href="https://github.com/RashSVR" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashSVR&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%40%Languages" alt="Top Languages" />
+</a>
 <a href="https://streak-stats.demolab.com/?user=RashSVR">
   <img src="https://streak-stats.demolab.com/?user=RashSVR&border_radius=6&theme=dark" alt="Streak Stats">
 </a>
-
 </p>
 
 
@@ -33,9 +35,7 @@
   <li>🤝 I'm open to collaborating on innovative and exciting projects</li>
 </ul>
 
-<p align="center">
- <a href="https://github.com/RashSVR" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashSVR&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%40%Languages" alt="Top Languages" /></a>
-</p>
+
 <h3>Skills</h3>
 
 <p align="center">
