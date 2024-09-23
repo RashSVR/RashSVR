@@ -312,6 +312,10 @@
   <a href="https://gitlab.com/rashmi-rajapaksha" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitLab-Rashmi%20Rajapaksha-%23FC6D26.svg?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
   </a>
+ <a href="https://g.dev/RashmiRajapaksha-RashSVR" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Google%20Developer-Rashmi%20Rajapaksha-%234285F4.svg?style=flat-square&logo=google&logoColor=white" alt="Google Developer" />
+</a>
+
 </p>
 
 
